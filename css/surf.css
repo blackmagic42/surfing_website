@@ -1,0 +1,46 @@
+.blanc
+{
+    color: white;    
+}
+.jumbotron
+{
+
+    background-image: url(../Image/SURRF.jpeg);
+    background-size: cover;
+    min-height: 500px;
+    filter: brightness(90%)
+}
+
+.allo
+{
+    font-size: xx-large;
+}
+.column 
+{
+    margin-right: 1%;
+    margin-left: 1%;
+    float: left;
+    width: 30%;
+}
+.a
+{
+    text-align: justify;
+}
+.card
+{
+    float: left;
+    width: 40%;
+}
+.fin
+{
+    margin-left: 14%;
+}
+.card-deck
+{
+    flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+
